@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523256324 source:c:\users\prathvi\desktop\daa pro\crc\main.cpp
+	<iostream>
+	<string.h>
+
