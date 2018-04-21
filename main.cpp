@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 #define N strlen(g)
-
+//this is a c++ code
 using namespace std;
 
 char t[128],cs[128],g[]="10001000000100001";
